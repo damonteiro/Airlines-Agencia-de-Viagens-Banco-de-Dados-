@@ -1,4 +1,6 @@
-# Projeto de Banco de Dados e Apresentação no Power BI
+# Projeto de Conclusão de Matéria (Fundamentos de Banco de Dados)
+
+Criação do banco de dados da agência de viagens Airlines e Análise  financeira em apresentação no Power BI
 
 Este repositório contém um projeto completo de banco de dados junto com uma apresentação do Power BI. 
 A seguir, você encontrará informações detalhadas sobre a estrutura do banco de dados, scripts SQL, backups, e arquivos do Power BI.
@@ -30,6 +32,15 @@ A seguir, você encontrará informações detalhadas sobre a estrutura do banco 
 
 Consulte a documentação em `database/docs/` e `powerbi/docs/` para mais detalhes sobre o esquema do banco de dados e o modelo de dados do Power BI.
 
-## Contribuição
+## Integrantes (Faculdade Impacta)
 
-Sinta-se à vontade para abrir uma issue ou enviar um pull request se desejar contribuir para este projeto.
+DANNYZELLY MARTINS
+DIEGO DE ANDRADE MONTEIRO
+ELDER MOURA
+GABRIEL RODRIGUES DAS NEVES
+GUSTAVO MENDES
+KIYOKO H NAKAGOMI
+MATHEUS DIAS DE SOUZA
+PAULA T. ENTRINGER
+PAULO BONDEZZAN
+VINICIUS DA SILVA SOUSA
